@@ -37,10 +37,8 @@ This [qBittorrent](https://github.com/qbittorrent/qBittorrent) Search Plugin use
 3. Paste this URL:
 
    ```
-   https://raw.githubusercontent.com/OWNER_USERNAME/YggAPI-qBittorrent-Search-Plugin/main/yggapi.py
+   https://raw.githubusercontent.com/Sterbweise/YggAPI-qBittorrent-Search-Plugin/main/yggapi.py
    ```
-
-   _(Replace `OWNER_USERNAME` with the actual GitHub repository owner)_
 
 4. **Configure your passkey** - Create a file:
 
