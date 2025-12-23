@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Laiteux/YggAPI-qBittorrent-Search-Plugin/main/yggapi.ico" height="32" alt="YggTorrent Icon"></img> YggAPI qBittorrent Search Plugin
+# <img src="https://raw.githubusercontent.com/Sterbweise/YggAPI-qBittorrent-Search-Plugin/main/yggapi.ico" height="32" alt="YggTorrent Icon"></img> YggAPI qBittorrent Search Plugin
 
 This [qBittorrent](https://github.com/qbittorrent/qBittorrent) Search Plugin uses [YggAPI](https://yggapi.eu), a non-official [YggTorrent](https://www.yggtorrent.org) search database.
 
